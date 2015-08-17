@@ -191,7 +191,7 @@ namespace AzureMLRRSWebTemplate
             //parameterRegion.Controls.Clear();
             parameterRegion.Controls.Add(new LiteralControl("<p class=\"titleresult\">List of Output Parameters</p>"));
             parameterRegion.Controls.Add(new LiteralControl("<table class=\"table table-hover table-bordered\">"));
-            parameterRegion.Controls.Add(new LiteralControl("<tr class=\"info\"><th>#</th><th>Name</th><th>Type</th><th>Alias</th><th>Eable</th></tr>"));
+            parameterRegion.Controls.Add(new LiteralControl("<tr class=\"info\"><th>#</th><th>Name</th><th>Type</th><th>Alias</th><th>Enable</th></tr>"));
 
             for (int i = 0; i < paramObj.listOutputParameter.Count; i++)
             {
