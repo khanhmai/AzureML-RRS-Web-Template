@@ -1,0 +1,55 @@
+E:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\AzureMLInterface.dll.config
+E:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\AzureMLInterface.dll
+E:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\AzureMLInterface.pdb
+E:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\obj\Debug\AzureMLInterface.csprojResolveAssemblyReference.cache
+E:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\obj\Debug\AzureMLInterface.dll
+E:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\obj\Debug\AzureMLInterface.pdb
+E:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\AMLModel.dll
+E:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\Newtonsoft.Json.dll
+E:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\AMLModel.pdb
+E:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\Newtonsoft.Json.xml
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\AzureMLInterface.dll.config
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\AzureMLInterface.dll
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\AzureMLInterface.pdb
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\AMLModel.dll
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\AMLModel.pdb
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\obj\Debug\AzureMLInterface.csprojResolveAssemblyReference.cache
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\obj\Debug\AzureMLInterface.dll
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\obj\Debug\AzureMLInterface.pdb
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\CSS\master.css
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\Newtonsoft.Json.dll
+D:\Dropbox\Career\Microsoft\AzureML\AzureML RRS Client\AzureMLInterface\bin\Newtonsoft.Json.xml
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\bin\CSS\master.css
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\bin\AzureMLInterface.dll.config
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\bin\AzureMLInterface.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\bin\AzureMLInterface.pdb
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\obj\Debug\AzureMLInterface.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\obj\Debug\AzureMLInterface.pdb
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\bin\System.Net.Http.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\bin\System.Net.Http.Formatting.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\bin\System.Net.Http.Formatting.xml
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\obj\Debug\AzureMLInterface.csprojResolveAssemblyReference.cache
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\bin\Newtonsoft.Json.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface\bin\Newtonsoft.Json.xml
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\CSS\master.css
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\AzureMLInterface.dll.config
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\AzureMLInterface.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\AzureMLInterface.pdb
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\Newtonsoft.Json.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\System.Net.Http.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\System.Net.Http.Formatting.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\obj\Debug\AzureMLInterface.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\obj\Debug\AzureMLInterface.pdb
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\CSS\master.css
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\AzureMLInterface.dll.config
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\AzureMLInterface.dll
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\AzureMLInterface.pdb
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\Newtonsoft.Json.dll
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\System.Net.Http.dll
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\System.Net.Http.Formatting.dll
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\obj\Debug\AzureMLInterface.csprojResolveAssemblyReference.cache
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\obj\Debug\AzureMLInterface.dll
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\obj\Debug\AzureMLInterface.pdb
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\obj\Debug\AzureMLInterface.csprojResolveAssemblyReference.cache
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\ParameterIO.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\bin\ParameterIO.dll

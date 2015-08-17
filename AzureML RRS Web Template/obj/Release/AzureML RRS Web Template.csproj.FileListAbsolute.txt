@@ -1,0 +1,10 @@
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureML RRS Web Template\bin\CSS\master.css
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureML RRS Web Template\bin\AzureML RRS Web Template.dll.config
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureML RRS Web Template\bin\AzureML RRS Web Template.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureML RRS Web Template\bin\AzureML RRS Web Template.pdb
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureML RRS Web Template\bin\Newtonsoft.Json.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureML RRS Web Template\bin\ParameterIO.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureML RRS Web Template\bin\System.Net.Http.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureML RRS Web Template\bin\System.Net.Http.Formatting.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureML RRS Web Template\obj\Release\AzureML RRS Web Template.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureML RRS Web Template\obj\Release\AzureML RRS Web Template.pdb

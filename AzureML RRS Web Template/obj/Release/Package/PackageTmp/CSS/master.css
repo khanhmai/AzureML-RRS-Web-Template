@@ -1,0 +1,170 @@
+﻿/*!
+ * Azure Machine Learning
+ * Copyright 2015 Microsoft, Inc.
+ */
+
+.azue-header{
+    padding:0px 0px 0px 0px;
+    margin-bottom: 0px;
+}
+
+.title{
+    font-size:21px;
+    text-align:center;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+.fieldname{    
+    width:100%;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    margin-top:10px;
+    font-weight: 700;
+    font-size:17px;
+}
+
+.wheel{
+    position: absolute;
+    top: -13px;
+    left: 0px;
+}
+path {
+  fill-rule: evenodd;
+  stroke: #333;
+  stroke-width: 1px;
+}
+
+.sun path {
+  fill: #6baed6;
+}
+
+.planet path {
+  fill: #fff;
+}
+
+.annulus path {
+  fill: #c6dbef;
+}
+
+#submitDiv{
+    background-color: transparent;
+    float: right;
+    padding-right: 0px;
+    padding-top: 15px;
+    z-index: 100;
+    width: 100%;
+}
+
+input[type=radio] {
+    display:none;
+}
+ 
+input[type=radio] + label {
+    display:inline-block;
+    margin:-2px;
+    padding: 4px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255,255,255,0.75);
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: #f5f5f5;
+    background-image: -moz-linear-gradient(top,#fff,#e6e6e6);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#fff),to(#e6e6e6));
+    background-image: -webkit-linear-gradient(top,#fff,#e6e6e6);
+    background-image: -o-linear-gradient(top,#fff,#e6e6e6);
+    background-image: linear-gradient(to bottom,#fff,#e6e6e6);
+    background-repeat: repeat-x;
+    border: 1px solid #ccc;
+    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-bottom-color: #b3b3b3;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff',endColorstr='#ffe6e6e6',GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+}
+ 
+input[type=radio]:checked + label {
+       background-image: none;
+    outline: 0;
+    -webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+    -moz-box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+        background-color:#e0e0e0;
+}
+
+.mytitle{
+    font-size:21px;
+}
+
+ .topLoader {
+        width: 256px;
+        height: 256px;
+        margin-bottom: 32px;
+        margin-left: auto;
+        margin-right: auto;
+} 
+
+.titleresult{
+    color: black;
+    font-size:25px;
+    font-weight:bold;
+}
+
+.textresult{
+    color:black;
+    font-weight:bold;
+}
+
+.mynumber{
+    width:15%;
+}
+
+.mydropdown{
+    width:20%;
+}
+
+.mytextbox{
+    width: 20%;
+}
+
+.myIntruduce{
+    margin: 15px;    
+}
+
+.btnSubmit{
+    float: right;
+}
+
+
+#topLoader{
+    text-align:center;
+}
+
+.footerText{
+    float:left;
+    margin-top: 15px;
+    border-top: 1px solid #E5E5E5;
+    width:100%;
+}
+
+#divResult{
+    margin-top: 15px;
+}
+
+.settingwidth{
+    min-width:530px;
+}
+
+.tooltip-inner {
+    max-width: 300px;
+    /* If max-width does not work, try using width instead */
+}

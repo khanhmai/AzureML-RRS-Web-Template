@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureMLRRSWebTemplate", "AzureMLRRSWebTemplate.csproj", "{A7D947E9-0EF2-4B40-BC69-0EF1153AA454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLibrary", "..\CryptoLibrary\CryptoLibrary.csproj", "{B7ACE24E-3776-4EA9-9233-8BC73A2DF29A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterIO", "ParameterIO\ParameterIO.csproj", "{6C83625D-0DA0-4196-ABFE-EFCB8251906A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D947E9-0EF2-4B40-BC69-0EF1153AA454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D947E9-0EF2-4B40-BC69-0EF1153AA454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D947E9-0EF2-4B40-BC69-0EF1153AA454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D947E9-0EF2-4B40-BC69-0EF1153AA454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7ACE24E-3776-4EA9-9233-8BC73A2DF29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7ACE24E-3776-4EA9-9233-8BC73A2DF29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7ACE24E-3776-4EA9-9233-8BC73A2DF29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7ACE24E-3776-4EA9-9233-8BC73A2DF29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C83625D-0DA0-4196-ABFE-EFCB8251906A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C83625D-0DA0-4196-ABFE-EFCB8251906A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C83625D-0DA0-4196-ABFE-EFCB8251906A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C83625D-0DA0-4196-ABFE-EFCB8251906A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

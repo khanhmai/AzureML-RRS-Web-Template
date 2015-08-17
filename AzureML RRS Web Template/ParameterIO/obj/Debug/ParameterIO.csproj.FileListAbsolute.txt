@@ -1,0 +1,14 @@
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\bin\Debug\ParameterIO.dll
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\bin\Debug\ParameterIO.pdb
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\bin\Debug\Newtonsoft.Json.xml
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\obj\Debug\ParameterIO.dll
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\obj\Debug\ParameterIO.pdb
+E:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\obj\Debug\ParameterIO.csprojResolveAssemblyReference.cache
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\bin\Debug\ParameterIO.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\bin\Debug\ParameterIO.pdb
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\obj\Debug\ParameterIO.dll
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\obj\Debug\ParameterIO.pdb
+D:\Dropbox\Career\Microsoft\AzureML\Project\AzureMLInterface1\AzureMLInterface\ParameterIO\obj\Debug\ParameterIO.csprojResolveAssemblyReference.cache
